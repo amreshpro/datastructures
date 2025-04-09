@@ -2,6 +2,8 @@
 *.d
 ./output
 /output
+*/output
+.vscode
 # Object files
 *.o
 *.ko
